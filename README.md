@@ -56,3 +56,20 @@ Please feel free to contact me via my facebook.
  - [Instagram](https://www.instagram.com/umang_stha_v2.0/)
  - [Behance](https://www.behance.net/umangsthav2)
  - [US Photography](https://umangsthav2.github.io/US_Photography_Portfolio/)
+
+
+
+ ### For Developers
+    System.out.println("Hello Developers");
+
+ To run the software via JVM, copy all the files from src folder to the root directory and execute the file "run.bat" to run the program.
+
+    run
+ 
+ The "build.bat" file can be executed to build the file into JAR file.
+
+    build
+
+Catch ya later buddies
+
+    System.out.println("Catch ya later Developers");
