@@ -1,4 +1,4 @@
-# Booksop Inventory System
+# Bookshop Inventory System
 This system is desgigned to manage and sell books for a normal bookshop.
 
 A shopkeeper who wants to keep track of records of their inventory is recommeded to use this software. 
